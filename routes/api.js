@@ -1,5 +1,4 @@
 'use strict';
-const Ut = require('../utils/utils');
 const SudokuSolver = require('../controllers/sudoku-solver.js');
 const { SudokuHelper } = require('../utils/sudoku-helper');
 const {mid_puzzle} = require('../middlewares/mid-puzzle');
